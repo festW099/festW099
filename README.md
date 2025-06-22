@@ -42,8 +42,6 @@
 
 </div>
 
-![Snake animation](https://github.com/festW099/festW099/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 🏆 Achievements
