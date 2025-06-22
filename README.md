@@ -1,6 +1,3 @@
-
-# Привет, меня зовут [Твоё Имя]! 👋
-
 [![GitHub Followers](https://img.shields.io/github/followers/festW099?label=Follow%20me&style=social)](https://github.com/festW099)
 ![Profile Views](https://komarev.com/ghpvc/?username=festW099&color=blueviolet&label=Profile+Views)
 
