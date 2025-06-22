@@ -1,7 +1,5 @@
 # Привет, я festW099! 👋
 
-[![Metrics](https://github.com/festW099/festW099/blob/main/github-metrics.svg)](https://github.com/lowlighter/metrics) 
-
 [![GitHub Followers](https://img.shields.io/github/followers/festW099?label=Follow%20me&style=social)](https://github.com/festW099)
 ![Profile Views](https://komarev.com/ghpvc/?username=festW099&color=blueviolet&label=Profile+Views)
 
@@ -17,8 +15,6 @@
 ### 📊 **Моя активность на GitHub**  
 
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=festW099&theme=react-dark&hide_border=true&area=true&custom_title=Моя%20активность)](https://github.com/festW099)
-
-[![Metrics](https://metrics.lecoq.io/festW099?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&languages=1&followup=1&achievements=1&lines=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Europe%2FMoscow)](https://github.com/festW099)
 
 ---
 
@@ -38,8 +34,24 @@
 
 ### 📈 **Статистика профиля**  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=festW099&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=festW099&layout=compact&theme=dark&hide_border=true)
+[![CyberStats](https://github-readme-stats.vercel.app/api?username=festW099&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=00ff88&icon_color=00f7ff&text_color=ffffff&border_color=00ffaa&ring_color=0099ff)](https://github.com/festW099)  
+
+[![LangMatrix](https://github-readme-stats.vercel.app/api/top-langs/?username=festW099&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&border_color=00ffaa)](https://github.com/festW099)  
 
 ---
+
+## 🏆 Мои GitHub-достижения  
+[![trophy](https://github-profile-trophy.vercel.app/?username=festW099&theme=onedark&rank=-C&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+[![codewars](https://www.codewars.com/users/festW099/badges/large)](https://www.codewars.com/users/festW099)
+
+---
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=festW099&theme=dark&background=000000)]
