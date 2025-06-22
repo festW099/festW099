@@ -1,16 +1,8 @@
 
 # Привет, меня зовут [Твоё Имя]! 👋
 
-[![GitHub Followers](https://img.shields.io/github/followers/ТвойUsername?label=Follow%20me&style=social)](https://github.com/festW099)
+[![GitHub Followers](https://img.shields.io/github/followers/festW099?label=Follow%20me&style=social)](https://github.com/festW099)
 ![Profile Views](https://komarev.com/ghpvc/?username=festW099&color=blueviolet&label=Profile+Views)
-
-🔭 **Чем я занимаюсь:**  
-- [Проект 1](ссылка) — краткое описание.  
-- [Проект 2](ссылка) — ещё одно описание.  
-
-🌱 **Изучаю:**  
-- Python / JavaScript / (твои технологии).  
-- Фреймворки и инструменты.  
 
 📫 **Как связаться:**  
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/oooohioooooo)
