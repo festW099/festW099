@@ -8,7 +8,6 @@
 
 [![Website](https://img.shields.io/badge/-Мой_Сайт-000000?style=flat&logo=google-chrome)](https://example.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=telegram)](https://t.me/your_tg)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
 
 ---
 
@@ -37,16 +36,9 @@
 
 [![CyberStats](https://github-readme-stats.vercel.app/api?username=festW099&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=00ff88&icon_color=00f7ff&text_color=ffffff&border_color=00ffaa&ring_color=0099ff)](https://github.com/festW099)  
 
+---
+
 [![LangMatrix](https://github-readme-stats.vercel.app/api/top-langs/?username=festW099&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&border_color=00ffaa)](https://github.com/festW099)  
-
----
-
-## 🏆 Мои GitHub-достижения  
-[![trophy](https://github-profile-trophy.vercel.app/?username=festW099&theme=onedark&rank=-C&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
@@ -55,3 +47,15 @@
 ---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=festW099&theme=dark&background=000000)]
+
+## 🏆 Мои GitHub-достижения  
+[![trophy](https://github-profile-trophy.vercel.app/?username=festW099&theme=onedark&rank=-C&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+
+
+
