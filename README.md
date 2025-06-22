@@ -1,25 +1,10 @@
-### Hi!
+# Привет, я festW099! 👋
+
 [![GitHub Followers](https://img.shields.io/github/followers/festW099?label=Follow%20me&style=social)](https://github.com/festW099)
 ![Profile Views](https://komarev.com/ghpvc/?username=festW099&color=blueviolet&label=Profile+Views)
 
-📫 **Как связаться:**  
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/oooohioooooo)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:pervovlasenkovsevolod@gmail.com)
-
-📊 **Статистика GitHub:**  
-![Твоя статистика](https://github-readme-stats.vercel.app/api?username=festW099&show_icons=true&theme=radical)
-
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=festW099&layout=compact&theme=dark)
-
-### 📈 GitHub Activity Graph:
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=festW099&theme=react-dark&hide_border=true&area=true)](https://github.com/festW099)
-
-[![Metrics](https://metrics.lecoq.io/festW099?template=terminal&base=activity&languages=1&animation=1)](https://github.com/festW099)
-
-# Привет, я festW099! 👋
-
 💻 **Backend Developer | Open Source Contributor**  
-🌍 Россия | 🏙️ Москва  
+🌍 Россия | 🏙️ Владвивосток  
 
 [![Website](https://img.shields.io/badge/-Мой_Сайт-000000?style=flat&logo=google-chrome)](https://example.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=telegram)](https://t.me/your_tg)
@@ -39,7 +24,11 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -52,24 +41,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=festW099&layout=compact&theme=dark&hide_border=true)
 
 ---
-
-### 🏆 **Достижения GitHub**  
-
-[![Achievements](https://metrics.lecoq.io/festW099?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&config.timezone=Europe%2FMoscow)](https://github.com/festW099)
-
----
-
-### 🔥 **Последние проекты**  
-
-- [Проект 1](https://github.com/festW099/project1) — Краткое описание  
-- [Проект 2](https://github.com/festW099/project2) — Еще одно описание  
-- [Проект 3](https://github.com/festW099/project3) — Что-то интересное  
-
----
-
-### 📫 **Как связаться?**  
-
-📧 **Email:** your.email@example.com  
-💬 **Telegram:** [@your_tg](https://t.me/your_tg)  
-
-⭐ **Если вам нравится мой профиль — поставьте звезду!** 😊
