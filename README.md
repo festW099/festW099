@@ -1,4 +1,4 @@
-# Hello, I'm festW099! 👋
+# Hello! 👋
 
 [![GitHub Followers](https://img.shields.io/github/followers/festW099?label=Follow%20me&style=social&color=blue)](https://github.com/festW099)
 ![Profile Views](https://komarev.com/ghpvc/?username=festW099&color=blue&label=Profile+Views)
@@ -45,8 +45,6 @@
 ---
 
 ## 🏆 Achievements
-
-[![Codewars](https://www.codewars.com/users/festW099/badges/large)](https://www.codewars.com/users/festW099)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=festW099&theme=onedark&rank=-C&margin-w=15&margin-h=15&no-bg=true&title=MultiLanguage,Commits,Repositories,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
