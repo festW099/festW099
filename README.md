@@ -3,7 +3,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/festW099?label=Follow%20me&style=social&color=blue)](https://github.com/festW099)
 ![Profile Views](https://komarev.com/ghpvc/?username=festW099&color=blue&label=Profile+Views)
 
-💻 **Backend Developer | Open Source Enthusiast | Flutter Developer | Use Arch BTW**  
+💻 **Backend Developer |  Flutter Developer | Open Source Enthusiast | Use Arch BTW**  
 🌍 Russia | 🏙️ Vladivostok  
 
 [![Website](https://img.shields.io/badge/-My_Website-0066cc?style=flat)](https://example.com)
