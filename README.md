@@ -6,8 +6,8 @@
 💻 **Backend Developer |  Flutter Developer | Open Source Enthusiast | Use Arch BTW**  
 🌍 Russia | 🏙️ Vladivostok  
 
-[![Website](https://img.shields.io/badge/-My_Website-0066cc?style=flat)](https://example.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat)](https://t.me/your_tg)
+[![Website](https://img.shields.io/badge/-My_Website-0066cc?style=flat)](https://nometa.xyz)
+[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat)](https://t.me/oooohioooooo)
 
 ---
 
