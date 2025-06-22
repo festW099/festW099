@@ -1,22 +1,18 @@
-name: Update Metrics
+name: Metrics
 on:
   schedule:
-    - cron: "0 0 * * *"  # Обновлять каждый день в 00:00 UTC
-  workflow_dispatch:     # Можно запустить вручную
+    - cron: "0 0 * * *"  # Обновлять каждый день
+  workflow_dispatch:
 jobs:
   metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write   # Даём права на запись файлов
     steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: festW099
-          filename: github-metrics.svg  # Имя файла
-          base: ""  # main branch
-          plugin_languages: yes
-          plugin_stars: yes
-          plugin_habits: yes
+          template: classic  # Можно выбрать другой шаблон
+          base: ""
           plugin_achievements: yes
-          persist: true  # Сохраняет файл в репозиторий
+          plugin_languages: yes
+          plugin_habits: yes
