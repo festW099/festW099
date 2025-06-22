@@ -9,3 +9,5 @@
 ![Твоя статистика](https://github-readme-stats.vercel.app/api?username=festW099&show_icons=true&theme=radical)
 
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=festW099&layout=compact&theme=dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=festW099)](https://git.io/streak-stats)
