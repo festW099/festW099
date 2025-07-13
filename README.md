@@ -3,7 +3,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/festW099?label=Follow%20me&style=social&color=blue)](https://github.com/festW099)
 ![Profile Views](https://komarev.com/ghpvc/?username=festW099&color=blue&label=Profile+Views)
 
-💻 **Backend Developer |  Flutter Developer | Open Source Enthusiast | Use Arch BTW**  
+💻 **Backend Developer |  Flutter Developer | Use Arch BTW**  
 🌍 Russia | 🏙️ Vladivostok  
 
 [![Website](https://img.shields.io/badge/-My_Website-0066cc?style=flat)](https://nometa.xyz)
@@ -25,6 +25,7 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
