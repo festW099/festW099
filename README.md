@@ -37,7 +37,7 @@
   
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=festW099&show_icons=true&theme=blue-green&hide_border=true&bg_color=0d1117&title_color=1a8cff&icon_color=1a8cff&text_color=ffffff)](https://github.com/festW099)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=festW099&layout=compact&theme=blue-green&hide_border=true&bg_color=0d1117&title_color=1a8cff&text_color=ffffff)](https://github.com/festW099)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=festW099&layout=compact&theme=blue-green&hide_border=true&bg_color=0d1117&title_color=1a8cff&text_color=ffffff&hide=html,css,shaderlab,csharp&langs_count=10&exclude_repo=ForUnityFiles)](https://github.com/festW099)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=festW099&theme=blue-green&background=0d1117&border=1a8cff&dates=ffffff)](https://github.com/festW099)
 
