@@ -6,7 +6,7 @@
 💻 **Backend Developer |  Flutter Developer | Use Arch BTW**  
 🌍 Russia | 🏙️ Vladivostok  
 
-[![Website](https://img.shields.io/badge/-My_Website-0066cc?style=flat)](https://nometa.xyz)
+[![Website](https://img.shields.io/badge/-My_Website-0066cc?style=flat)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DdQw4w9WgXcQ&ved=2ahUKEwjimtqfjt-QAxXlJBAIHeknDwkQwqsBegQIHhAB&usg=AOvVaw0aHtehaphMhOCAkCydRLZU)
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat)](https://t.me/oooohioooooo)
 
 ---
