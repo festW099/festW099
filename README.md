@@ -1,4 +1,4 @@
-# Hello! 👋
+# Hello
 
 [![GitHub Followers](https://img.shields.io/github/followers/festW099?label=Follow%20me&style=social&color=blue)](https://github.com/festW099)
 ![Profile Views](https://komarev.com/ghpvc/?username=festW099&color=blue&label=Profile+Views)
