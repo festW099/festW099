@@ -11,7 +11,7 @@
 
 ---
 
-## 🔥 GitHub Activity
+## GitHub Activity
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=festW099&theme=react-dark&bg_color=0d1117&color=1a8cff&line=0066ff&point=1a8cff&area=true&hide_border=true)](https://github.com/festW099)
 
